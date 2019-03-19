@@ -1,0 +1,5 @@
+export const LOGIN_PENDING = 'USERS_LOGIN_PENDING';
+export const LOGIN_SUCCESS = 'USERS_LOGIN_SUCCESS';
+export const LOGIN_ERROR = 'USERS_LOGIN_ERROR';
+
+export const ADD_CARD = 'ADD_CARD';
